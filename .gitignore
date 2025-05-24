@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Auto-generated files
+*.generated.cs
+*.g.cs
+
+# Logs and database files
+*.log
+*.mdf
+*.ldf
+
+# Others
+*.cache
+*.config
